@@ -1,4 +1,12 @@
-### Hi there 👋
+## Opa! :v:
+
+Uso computadores desde que me conheço por gente e tô procurando me aperfeiçoar nesse caminho da programação!
+
+- Conheço o básico de Python3 e Javascript
+- Estou participando da Next Level Week com a galera da **Rocketseat** :rocket:
+- Curto trabalhar em projetos e aprender na prática
+- Só se aprende fazendo :muscle:
+#### Contatos: caiocm8@hotmail.com ou https://www.linkedin.com/in/caio-cavalcanti-4092751b0/
 
 <!--
 **CavMir/CavMir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
