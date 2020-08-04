@@ -6,8 +6,7 @@ Uso computadores desde que me conheço por gente e tô procurando me aperfeiçoa
 - Estou participando da Next Level Week com a galera da **Rocketseat** :rocket:
 - Curto trabalhar em projetos e aprender na prática
 - Só se aprende fazendo :muscle:
-#### Contatos: caiocm8@hotmail.com ou https://www.linkedin.com/in/caio-cavalcanti-4092751b0/
-
+#### Contatos: [![Gmail Badge](https://img.shields.io/badge/-caiocm8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiocm8@gmail.com)](mailto:caiocm8@gmail.com) ou  [![Linkedin Badge](https://img.shields.io/badge/-CaioCavalcanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cavalcanti-4092751b0/)](https://www.linkedin.com/in/caio-cavalcanti-4092751b0/) 
 <!--
 **CavMir/CavMir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
