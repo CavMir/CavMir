@@ -2,7 +2,7 @@
 
 Uso computadores desde que me conheço por gente e tô procurando me aperfeiçoar nesse caminho da programação!
 
-- Conheço o básico de Python3 e Javascript
+- Conheço o básico de Python3 e Javascript, além de já ter mexido com SQL, HTML e CSS
 - Concluí a Next Level Week com a galera da **Rocketseat** :rocket:
 - Curto trabalhar em projetos e aprender na prática
 - Só se aprende fazendo :muscle:
