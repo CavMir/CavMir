@@ -2,7 +2,7 @@
 
 Uso computadores desde que me conheço por gente e tô procurando me aperfeiçoar nesse caminho da programação!
 
-- Conheço Python3 e um pouco de Javascript, já fiz projetos em Flutter com Dart e também já mexi com SQL, HTML e CSS
+- Tenho bastante experiência com Python3 e conheço C, Java e Javascript, já fiz projetos em Flutter com Dart e também já mexi com SQL, HTML e CSS
 - Curto trabalhar em projetos e aprender na prática
 - Só se aprende fazendo :muscle:
 #### Contatos: [![Gmail Badge](https://img.shields.io/badge/-caiocm8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiocm8@gmail.com)](mailto:caiocm8@gmail.com) ou  [![Linkedin Badge](https://img.shields.io/badge/-CaioCavalcanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cavalcanti-4092751b0/)](https://www.linkedin.com/in/caio-cavalcanti-4092751b0/) 
